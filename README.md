@@ -51,3 +51,10 @@ This is the backend API for the Sweet Shop Management System, built using **Spri
    ```bash
    git clone https://github.com/ShaikAnwar2004/sweetshop-backend.git
    cd sweetshop-backend
+2. **Sweetshop-frontend**
+   ```bash
+   git clone https://github.com/ShaikAnwar2004/sweet-shop-management-system.git
+   Frontend Deloy Link: https://sweet-shop-management-system-gules.vercel.app/
+   
+
+   
